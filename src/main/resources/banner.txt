@@ -1,0 +1,2 @@
+筚路蓝缕,以启山林.
+${AnsiColor.BRIGHT_CYAN}当前 Spring Boot 版本: ${spring-boot.version}
